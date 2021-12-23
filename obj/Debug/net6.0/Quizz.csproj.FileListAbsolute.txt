@@ -1,0 +1,15 @@
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Quizz\bin\Debug\net6.0\Quizz.exe
+C:\Users\arthu\source\repos\Quizz\bin\Debug\net6.0\Quizz.deps.json
+C:\Users\arthu\source\repos\Quizz\bin\Debug\net6.0\Quizz.runtimeconfig.json
+C:\Users\arthu\source\repos\Quizz\bin\Debug\net6.0\Quizz.dll
+C:\Users\arthu\source\repos\Quizz\bin\Debug\net6.0\ref\Quizz.dll
+C:\Users\arthu\source\repos\Quizz\bin\Debug\net6.0\Quizz.pdb
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.dll
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\ref\Quizz.dll
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.pdb
+C:\Users\arthu\source\repos\Quizz\obj\Debug\net6.0\Quizz.genruntimeconfig.cache
